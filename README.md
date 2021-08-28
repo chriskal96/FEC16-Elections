@@ -1,1 +1,7 @@
-# This repository includes an assignment assigned by Panos Louridas for the needs of the Applied Machine Learning course offered by the Department of Management Science & Technology of the Athens University of Economics and Business. The assignment investigates the FEC elections 2016 data using the pandas library and is restricted in Hillary R. Clinton's and Donald J. Trump's financial activities conducted during 2015 and 2016 for the needs of their campaigns.
+# Exploring the FEC 2016 Elections Data
+
+This repository includes an assignment assigned for the cource "Analytics Practicum 1" offered by the Master of Science in Business Analytics of the Athens University of Economics and Business. The assignment is an analysis for the contributions of the 2016 USA Presidential Elections. Datasets were extracted from https://www.fec.gov/ and https://www.census.gov/ .
+
+## Author
+
+<a href="https://github.com/chriskal96">Christos Kallaras</a>
